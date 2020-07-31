@@ -1,0 +1,523 @@
+body {
+    font-family: Source Sans Pro;
+    margin: 0px;
+    background-color: #1B191F; /* Dark Grey */
+}
+
+/*START MAIN HEADER Sholpan*/ 
+.header {
+    background-color: #1B191F; /* Dark Grey */
+    color: white;
+    font-size: 25px;
+    display: flex;
+    position: fixed;
+    top: 0;
+    padding: 30px 10px;
+    width: 100%;
+    margin-top: -1%;
+    margin-right: auto;
+    margin-left: auto;
+    letter-spacing: 0,9px;
+    word-spacing: 30px;
+    margin-top: 0px;
+
+}
+.nav {
+    font-weight: normal;
+    font-size: 15px;
+    color: #BAB9BB; /* Light Grey */
+    color: #BAB9BB; /* Light Grey */
+}
+a:hover {
+    color: #FED80E; /* Yellow */
+}
+.search {
+    background-color: #232129; /* Grey */
+    font-weight: normal;
+    font-size: 15px;
+    color: #BAB9BB; /* Light Grey */
+    padding: 10px 25px;
+    border-radius: 8px;
+}
+.languages {
+    background-color: transparent;
+    color: #BAB9BB; /* Light Grey */
+}
+.signin {
+    background-color: transparent;
+    color: #BAB9BB; /* Light Grey */
+    padding: 10px 25px;
+    border-radius: 8px;
+    border: 2px solid #FED80E; /* Yellow */
+}
+
+.icon {
+    color: #BAB9BB; /* Light Grey */
+}
+/*END MAIN HEADER Sholpan*/ 
+
+ main {
+    width: 100%;
+    margin:0px;
+}
+
+/*START NEW OF SEASON Alina*/
+.new-of-season {
+    background-color: rgb(57, 55, 55);
+    font-weight:lighter;
+    color:white;
+}
+.new-items-heading {
+   padding:40px 0 5px 60px;
+}
+
+.categories {
+   margin:10px;
+}
+
+div.poster-wrapper {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 50px 60px 60px 60px;
+    margin-bottom: 0px;
+    margin-top: 20px
+}
+.first-section-posters {
+   width:250px;
+   height: 300px;
+}
+
+/*START MAIN HEADER Sholpan*/ 
+.header {
+   background-color: #1B191F; /* Dark Grey */
+   color: white;
+   font-size: 25px;
+   display: flex;
+   position: fixed;
+   padding: 30px 10px;
+   width: 100%;
+   margin-top: -1%;
+   margin-right: auto;
+   margin-left: auto;
+   letter-spacing: 0,9px;
+   word-spacing: 30px;
+   margin-top: 0px;
+
+}
+.nav {
+    font-weight: normal;
+    font-size: 15px;
+    color: #BAB9BB; /* Light Grey */
+    color: #BAB9BB; /* Light Grey */
+}
+a:hover {
+    color: #FED80E; /* Yellow */
+}
+.search {
+    background-color: #232129; /* Grey */
+    font-weight: normal;
+    font-size: 15px;
+    color: #BAB9BB; /* Light Grey */
+    padding: 10px 25px;
+    border-radius: 8px;
+}
+.languages {
+    background-color: transparent;
+    color: #BAB9BB; /* Light Grey */
+}
+.signin {
+    background-color: transparent;
+    color: #BAB9BB; /* Light Grey */
+    padding: 10px 25px;
+    border-radius: 8px;
+    border: 2px solid #FED80E; /* Yellow */
+}
+
+.icon {
+    color: #BAB9BB; /* Light Grey */
+}
+/*END MAIN HEADER Sholpan*/ 
+
+ main {
+    width: 100%;
+    margin:0px;
+}
+/*START NEW OF SEASON Alina*/
+.new-of-season {
+    background-color: rgb(57, 55, 55);
+    font-weight:lighter;
+    color:white;
+}
+.new-items-heading {
+   padding:40px 0 5px 60px;
+}
+
+.categories {
+   margin:10px;
+}
+
+.poster-wrapper {
+    display:flex;
+    flex-wrap: wrap;
+    padding: 50px 10px 60px 60px;
+}
+.second-section-posters {
+   width:200px;
+   padding-right: 25px;
+}
+
+/* new items Css starts */
+.new-items {
+    background-color: rgb(57, 55, 55);
+    font-weight:lighter;
+    color:white;
+
+}
+.new-items-heading {
+   padding:40px 0 5px 60px;
+   margin: 0px;
+
+
+
+/* .new-of-season {
+    /* width: 100%; */
+    /* height: 400px; */
+    background-color: rgb(75, 69, 69);
+    color: white;
+    
+}
+.new-season-posters {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 10px 60px 60px;
+}
+.title-season {
+    font-size: 20px;
+    font-weight: normal;
+    padding-left: 20px;
+}
+.newitems {
+    font-weight: bold;
+} */
+/* .section1-header {
+    display: flex;
+    justify-content: stretch;
+} */
+/* .left-dir, .right-dir {
+    height: 20px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin: 0px;
+    padding-top: 20px;
+} */
+
+/* .one {
+   
+
+} */
+
+/* images */
+
+.one, .two, .three, .four, .five {
+    display: flex;
+}
+
+
+/* start premier css */
+.view-all {
+    padding: 7px 12px;
+    border-radius: 5px;
+    background-color: darkgray;
+    color: white;
+  }
+  .expected-image-container {
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+  }
+  .expected-image-container div img {
+      width: 200px;
+      height: 250px;
+  }
+  .expected-image-container p {
+      font-size: 14px;
+  }
+  
+/* end premier css   */
+
+/* new items Css starts */
+.new-items {
+    background-color: rgb(57, 55, 55);
+    font-weight:lighter;
+    color:white;
+}
+.new-items-heading {
+   padding:40px 0 5px 60px;
+}
+.genre-nav {
+   color:lightgray;
+   padding: 20px 0 5px 60px;
+}
+.categories {
+   margin:10px;
+}
+
+.poster-wrapper {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-top: 1px solid rgba(210,201,255,0.1);
+    /* margin-bottom: 20px; */
+}
+.second-section-posters {
+   width:200px;
+   height: 300px;
+   margin-bottom: 20px;
+}
+.postercaption {
+   padding-top:2px;
+   margin-top:0;
+}
+
+
+/* start premier css */
+.view-all {
+    padding: 7px 12px;
+    border-radius: 5px;
+    background-color: darkgray;
+    color: white;
+  }
+  .expected-image-container {
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+  }
+  .expected-image-container div img {
+      width: 200px;
+      height: 250px;
+  }
+  .expected-image-container p {
+      font-size: 14px;
+  }
+  
+/* end premier css   */
+
+
+
+/* start footer css */
+
+
+article.context {
+    color: #fff;
+    background-color: #1a191f;
+    padding: 0px 100px 0px 100px;
+    margin: 0 auto;   
+}
+
+.article-title {
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.article-text{
+    color: rgba(255,255,255,0.8);
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+}
+
+span.bold {
+    font-weight: 700;
+    color: white;
+
+}
+a.article-link{
+    color:  #ffd80e;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #1a191f;
+    margin: 0 auto;
+    border-top: 1px solid rgba(210,201,255,0.1);
+    padding: 0px 100px 100px 100px;
+    /* margin: 0 auto;  */
+}
+
+.footer-conatainer {
+    padding-top: 30px;  
+    padding-bottom: 30px; 
+}
+
+img.footer-logo {
+    width: 150px;
+    margin-top: 30px;
+}
+
+span.copyright {
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(255,255,255,0.3);
+}
+
+a.ref-to-creator{
+    color: rgba(255,255,255,0.3);
+    text-decoration: none;
+}
+
+nav.footer-nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+a.footer-a {
+    margin-right: 30px;
+    color: rgba(255,255,255,0.3);
+    text-decoration: none;
+}
+
+.return {
+    margin-right: 40px;
+    margin-top: 0px;
+    margin-bottom: -20px;
+    border-radius: 10px;
+    background-color:  #1a191f;
+    cursor: pointer;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #ffd80e;
+    color: rgba(255,255,255,0.6);
+}
+i.fa-arrow-up {
+    color:  rgba(255,255,255,0.3);
+}
+
+.genre {
+    color: #ffd80e;
+    font-family: Source Sans Pro;
+}
+
+.categories {
+   margin:10px;
+}
+hr {
+   width:100%;
+}
+.poster-wrapper {
+    display:flex;
+    flex-wrap: wrap;
+    padding: 50px 10px 60px 60px;
+}
+.second-section-posters {
+   width:200px;
+   padding-right: 25px;
+}
+.postercaption {
+   padding-top:2px;
+   margin-top:0;
+}
+
+
+/* start footer css */
+
+
+article.context {
+    color: #fff;
+    background-color: #1a191f;
+    padding: 0px 100px 0px 100px;
+    margin: 0 auto;   
+}
+
+.article-title {
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.article-text{
+    color: rgba(255,255,255,0.8);
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+}
+
+span.bold {
+    font-weight: 700;
+    color: white;
+
+}
+a.article-link{
+    color:  #ffd80e;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #1a191f;
+    margin: 0 auto;
+    border-top: 1px solid rgba(210,201,255,0.1);
+    padding: 0px 100px 100px 100px;
+    /* margin: 0 auto;  */
+}
+
+.footer-conatainer {
+    padding-top: 30px;  
+    padding-bottom: 30px; 
+}
+
+img.footer-logo {
+    width: 150px;
+    margin-top: 30px;
+}
+
+span.copyright {
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(255,255,255,0.3);
+}
+
+a.ref-to-creator{
+    color: rgba(255,255,255,0.3);
+    text-decoration: none;
+}
+
+nav.footer-nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+a.footer-a {
+    margin-right: 30px;
+    color: rgba(255,255,255,0.3);
+    text-decoration: none;
+}
+
+.return {
+    margin-right: 40px;
+    margin-top: 0px;
+    margin-bottom: -20px;
+    border-radius: 10px;
+    background-color:  #1a191f;
+    cursor: pointer;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #ffd80e;
+    color: rgba(255,255,255,0.6);
+}
+
+i.fa-arrow-up {
+    color:  rgba(255,255,255,0.3);
+}
+
+
+
